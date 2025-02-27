@@ -49,6 +49,9 @@ Python script output: 85000.32
 ## License
 This project is licensed under the MIT License.
 
+## Todo
+Take user input to use as prompt
+
 ## Contributing
 Pull requests are welcome! Feel free to submit issues or feature requests.
 
