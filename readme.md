@@ -1,4 +1,4 @@
-# OpenAI Python Script Generator
+# OpenAI Python Script Generator [![Rust](https://github.com/RGGH/prompty/actions/workflows/rust.yml/badge.svg)](https://github.com/RGGH/prompty/actions/workflows/rust.yml)
 
 This Rust program interacts with OpenAI's API to generate a Python script that fetches the latest Bitcoin price from the Gemini API. It then writes the script to a file and executes it automatically.
 
